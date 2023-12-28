@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gauravk0247/gauravk0247-Text-Util-React-App/static/css/main.dc4d6ff2.css",
+    "main.js": "/gauravk0247/gauravk0247-Text-Util-React-App/static/js/main.e842fee7.js",
+    "static/js/787.d4aba7ab.chunk.js": "/gauravk0247/gauravk0247-Text-Util-React-App/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/gauravk0247/gauravk0247-Text-Util-React-App/index.html",
+    "main.dc4d6ff2.css.map": "/gauravk0247/gauravk0247-Text-Util-React-App/static/css/main.dc4d6ff2.css.map",
+    "main.e842fee7.js.map": "/gauravk0247/gauravk0247-Text-Util-React-App/static/js/main.e842fee7.js.map",
+    "787.d4aba7ab.chunk.js.map": "/gauravk0247/gauravk0247-Text-Util-React-App/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.e842fee7.js"
+  ]
+}
